@@ -1,1 +1,1 @@
-[current directory content in long fomat](3-listfiles)
+[display hidden files in long format](4-listmorefiles)
