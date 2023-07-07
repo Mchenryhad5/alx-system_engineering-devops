@@ -1,1 +1,1 @@
-### [content list of your current directory](1-listit)
+[changes the working directory to home directory](2-bring_me_home)
