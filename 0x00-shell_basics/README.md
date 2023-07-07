@@ -1,1 +1,1 @@
-[changes the working directory to home directory](2-bring_me_home)
+[current directory content in long fomat](3-listfiles)
