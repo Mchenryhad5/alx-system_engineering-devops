@@ -1,1 +1,1 @@
-[display files in long format,numbers and hidden files](5-listfilesdigitonly)
+[file name in a directory](12-file_type)
